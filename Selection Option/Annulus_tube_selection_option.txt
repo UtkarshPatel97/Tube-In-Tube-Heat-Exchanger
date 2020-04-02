@@ -1,0 +1,6 @@
+As per your selected Inside Tube For Annular Pipe Options are as below : 
+71 . Inner Dia. = 57.960000 mm, Outer Dia = 63.500000 mm & Thickness = 2.770000 mm . 
+72 . Inner Dia. = 59.280000 mm, Outer Dia = 63.500000 mm & Thickness = 2.110000 mm . 
+73 . Inner Dia. = 69.390000 mm, Outer Dia = 76.200000 mm & Thickness = 3.405000 mm . 
+74 . Inner Dia. = 70.660000 mm, Outer Dia = 76.200000 mm & Thickness = 2.770000 mm . 
+Choose any one size for cold Fluid Flow as minimum innerdia required is 57.400000 : 
