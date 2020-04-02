@@ -1,0 +1,17 @@
+In Tube side of Heat Exchanger There will be Cold Fluid. 
+Mass flow rate = 1.380000 Kg/s .
+Specific Heat = 4069.840000 J/Kg.K .
+Thermal conductivity = 0.620653 W/m.K .
+density = 994.910450 Kg/m3 .
+viscosity = 0.000763 Pa.s .
+Effectiveness = 0.760000 
+Initial Temperature = 10.000000 'c 
+Final Temperature = 51.800000 'c 
+Inner dia of tube = 25.650000 mm . 
+Outer dia of tube = 31.750000 mm . 
+Cross-sectional Area of Tube = 0.000516 m2 . 
+Velocity of Flow in tube = 2.685658 m/s . 
+Re = 89878.576158 
+Pr = 5.000281 
+Nu = 459.206258 
+hi = 11111.411147 W/(K . m2) . 

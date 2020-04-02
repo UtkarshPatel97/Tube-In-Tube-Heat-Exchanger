@@ -1,0 +1,6 @@
+Mh 1.67 Kg/s
+Mc 1.38 Kg/s
+Thi 65 'c
+Tci 10 'c
+EPSILON 0.76 
+L 4 m

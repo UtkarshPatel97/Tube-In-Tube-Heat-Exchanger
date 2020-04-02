@@ -1,0 +1,19 @@
+In Annulus side of Heat Exchanger There will be Hot Fluid. 
+Mass flow rate = 1.670000 Kg/s 
+Specific Heat = 4066.237090 J/Kg.K .
+Thermal conductivity = 0.641389 W/m.K .
+density = 988.730653 Kg/m3 .
+viscosity = 0.000554 Pa.s .
+Effectiveness = 0.760000 
+Initial Temperature = 65.000000 'c 
+Final Temperature = 30.258202 'c 
+Minimum Dh = 57.400000 mm . 
+From Tema Table Di = 59.280000 mm . 
+Do = 63.500000 mm . 
+Updated Dh = 27.530000 mm . 
+Cross-sectional Area = 0.001967 m2 . 
+Re = 42206.707046 
+Pr = 3.510360 
+Nu = 207.561499 
+De = 78.930894 mm .
+ho = 1686.636902 W/(K . m2) . 

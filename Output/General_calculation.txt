@@ -1,0 +1,12 @@
+Q = 235918.208592 W . 
+Tcommin = 13.200000 'c . 
+Tcommout = 20.258202 'c . 
+LMTD = 16.477924 
+Ao = 910.590036 m2 . 
+N = 1.141720 . 
+N ~= 1.000000 
+fi = 0.004674 . 
+fo = 0.005099 .
+Pressure drop in Tubeside Pin = 3374.724522 Pa .
+Pressure drop in Annulus Tube Pout = 559.634957 Pa . 
+Total Pressure drop P = 3934.359479 Pa . 
