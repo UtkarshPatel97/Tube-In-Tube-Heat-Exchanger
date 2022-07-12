@@ -290,7 +290,7 @@ main()
 			di = TEMA_TUBESIDE_INNERDIA(i);
 			Aci = PI*di*di*pow(10,-6)/4;
 			Vmi = Mh/(rho_h*Aci);
-			if(vmi < Vmax)
+			if(Vmi < Vmax)
 			{
 				d0 = TEMA_TUBESIDE_OUTERDIA(i);
 				ti = (d0 - di)/2;
